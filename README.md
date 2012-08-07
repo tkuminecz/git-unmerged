@@ -5,7 +5,7 @@ git-unmerged is a shell script for git which displays a slice of the log contain
 
 Download & Installation:
 
-`$ git clone git://github.com/tkuminecz/git-unmerged.git && make`
+`$ git clone git://github.com/tkuminecz/git-unmerged.git && cd git-unmerged && git checkout v1.0 && make`
 
 Usage:
 
