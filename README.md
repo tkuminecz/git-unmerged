@@ -3,6 +3,10 @@ git-unmerged
 
 git-unmerged is a shell script for git which displays a slice of the log for commits which have not yet been merged upstream
 
+Download & Installation:
+
+`$ git clone git://github.com/tkuminecz/git-unmerged.git && make`
+
 Usage:
 
 `$ git unmerged` Displays unmerged commits for the current branch
